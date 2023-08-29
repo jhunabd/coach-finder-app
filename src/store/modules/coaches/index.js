@@ -9,18 +9,18 @@ export default {
         return {
             coaches: [{
                 id: 'c1',
-                name: 'Ceyhun',
-                surname: 'Abdullayev',
-                areas: ['frontend','backend','devops'],
-                description: "My name is Ceyhun Abdullayev and I am a fullstack developer",
+                name: 'Foo',
+                surname: 'Foo',
+                areas: ['backend','devops'],
+                description: "My name is Foo Foo and I am a fullstack developer",
                 hourlyRate: 30
             },
             {
                 id: 'c2',
-                name: 'Nermin',
-                surname: 'Abdullayeva',
-                areas: ['frontend','backend','devops'],
-                description: "My name is Nermin Abdullayeva and I am a fullstack developer",
+                name: 'Foo',
+                surname: 'Foo',
+                areas: ['frontend'],
+                description: "My name is Foo Foo and I am a fullstack developer",
                 hourlyRate: 30
             }
         ],
